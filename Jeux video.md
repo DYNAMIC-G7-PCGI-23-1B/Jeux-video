@@ -1,4 +1,13 @@
 # Jeux vidéo
+Les jeux vidéo sont l'un des grands acteurs de l'industrie du divertissement. Ils sont populaires depuis l'époque de retro gaming pendant les années 1970. Mais c'est en 2000, avec la sortie du console PS2, que l'époque des jeux vidéo modernes à commencer. Aujourd'hui, il est estimé qu'il a environ 2.7 milliards de personnes, soit environ 35% de la population qui joue aux jeux vidéo dans le monde (d'après Statista.com). Avec un nombre de consommateurs si important, il n’est pas étonnant qu'il y ait une croissance sur le nombre des jeux sorties et vendus, chaque année depuis le début du siècle.
+
+Mais tous les jeux ne sont pas créés égaux, il y a certains qu'ont (beaucoup) plus de succès que d'autres, même avant leurs dates de sortie, et quand on dit succès, on parle de la popularité d'un certain jeu vidéo pendant une période de temps. Notre projet de recherche documentaire vise à trouver qu'est-ce-que décide et permet ce succès, et comment ce succès évolue au cours du temps, et, dans la case où cela est possible, nous allons voir des choses communs parmi les jeux qui restent populaires pendant une longue durée.
+
+Pour réaliser cela, on regardera dans le passé, à l'aide des documents et des graphes aux sources crédibles, pour voir quelles jeux ont été les plus populaires, les genres auquel ils appartiennent, et les raisons pour lesquelles ils étaient populaire et on essayera de déterminer les paramètres que les a permis d'acquérir cet succès, et puis on va réaliser un modèle qui montre l'évolution de la popularité d'un certain genre x de jeux vidéo d'après certains paramètres qu'on précisera sur le compte rendu de notre projet.
+
+
+On voudrait remarquer que dans cette recherche on ne prendra pas en compte les jeux vidéo sur les portables, car la majorité d'eux ne coûtent pas chère ou sont gratuites, ce que renda inutile notre paramètre de prix.
+
 ## Description syhthèse du projet
  ### Problèùatique:
  Pour les jeux vidéo les plus populaires, comment leur genre, leur marketing et leur prix les affectent-ils?
