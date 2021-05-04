@@ -1,8 +1,8 @@
 # Jeux vidéo
 ## Description syhthèse du projet
- ### Problèùatique: Pour les jeux vidéo les plus populaires, comment leur genre, leur marketing et leur prix les affectent-ils?
- ### Hypothèse principale:
- ### Objectif: Prevenir comment la popularité d'un jeux vidéo de différentes genre, marketing et prix varie.
+ Problèùatique: Pour les jeux vidéo les plus populaires, comment leur genre, leur marketing et leur prix les affectent-ils?
+ Hypothèse principale:
+ Objectif: Prevenir comment la popularité d'un jeux vidéo de différentes genre, marketing et prix varie.
 ## Bibliographie
 Dustin K., 29 Janvier 2021, "What Makes A Game Great? We Look At Some of the Greatest Games To Find Out" https://www.gamedesigning.org/gaming/great-games/
 
