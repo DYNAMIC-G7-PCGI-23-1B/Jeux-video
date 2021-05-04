@@ -1,4 +1,8 @@
 # Jeux vidéo
+## Description syhthèse du projet
+ ### Problèùatique: Pour les jeux vidéo les plus populaires, comment leur genre, leur marketing et leur prix les affectent-ils?
+ ### Hypothèse principale:
+ ### Objectif: Prevenir comment la popularité d'un jeux vidéo de différentes genre, marketing et prix varie.
 ## Bibliographie
 Dustin K., 29 Janvier 2021, "What Makes A Game Great? We Look At Some of the Greatest Games To Find Out" https://www.gamedesigning.org/gaming/great-games/
 
@@ -16,6 +20,7 @@ STEPANOVA, Viktoriia, 2016, "Commercial Influence on the Video Game Industry: Sy
 KOSS, Hal, février 2020, "WHAT DOES THE FUTURE OF THE GAMING INDUSTRY LOOK LIKE?". https://builtin.com/media-gaming/future-of-gaming
 
 HAYWARD, Andrew, Février 2021, "the 19 most anticipated games of 2021". https://www.stuff.tv/features/most-anticipated-games
+
 
 
 
