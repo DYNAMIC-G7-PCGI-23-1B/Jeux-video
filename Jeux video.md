@@ -35,5 +35,5 @@ HAYWARD, Andrew, Février 2021, "the 19 most anticipated games of 2021". https:/
 
 
 
-## Mind Map
+## Mots-clés 
 ![Image text](https://github.com/Jesuiszeyao/addpic/blob/main/Carte%20Mentale.jpg)
