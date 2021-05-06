@@ -11,7 +11,6 @@ On voudrait remarquer que dans cette recherche on ne prendra pas en compte les j
 ## Description syhthèse du projet
  ### Problèùatique:
  Pour les jeux vidéo les plus populaires, comment leur genre, leur marketing et leur prix les affectent-ils?
- ### Hypothèse principale:
  ### Objectif: 
  Prevenir comment la popularité d'un jeux vidéo de différentes genre, marketing et prix varie.
 ## Bibliographie
